@@ -1,0 +1,75 @@
+
+
+<html> </html> --> Root element 
+<!DOCTYPE html> --> Denotes version
+
+<head> --> Contains metadata , style , title
+
+<h1></h1>
+...
+...        Headings of all size  
+<h2></h2>
+
+
+<p></p> -->paragraph
+
+<pre></pre> -- > paragraph accepts extra spaces and line changes.
+
+
+
+<br> --> Line Break
+
+<hr width = "50%"/> --> Break the page into various parts creating horizontal line
+
+<img scr = "source_of_image"> --> image tag
+
+<em>Hello</em> ---> used to emphasize text
+
+<i></i> -- > italic tag
+
+<u></u> --> underline 
+
+<strike>Hello<strike> --> used to strike through a text
+
+<a href="...">Statement..</a> --> used to link a hyperlink
+
+<li></li> --> list items using bullets
+
+<ol> <li> </li>  </ol> --> list items using numbers
+
+<ul></ul> --> list items using bullets
+
+<!-- Comment tag -->
+
+<marquee></marquee> -- > To roll text or image
+
+<meta charset="utf-8"  >  ---> contains site contents
+
+<table>
+  <tr>
+  	  <th>Month</th>
+  	  <th>Savings</th>
+  </tr>
+  <tr>
+  	<td>january</td>
+  	<td>$100</td>
+  </tr>
+
+</table>
+
+<form>
+	
+	Name : <input name = "Name" value ="" size= "80" ><br> 
+	Email: <input name  = "Email" value="" size = "80"><br>
+</form>  -- > used to create html tag
+
+
+<b></b> ---> bold
+
+<strong></strong> --> semantic importance 
+
+<mark> </mark> -->
+
+
+
+
